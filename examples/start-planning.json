@@ -1,0 +1,11 @@
+{
+  "tool": "outdoor_kitchen_start_planning",
+  "arguments": {
+    "layout": "straight",
+    "lengthFeet": 10,
+    "grillSize": 36,
+    "grillBrand": "Fire Magic",
+    "refrigerator": true
+  },
+  "returns": "A priced starter layout (refrigerator, storage, 42\" grill cabinet with a Fire Magic Echelon 36\", storage), grill alternatives at other prices, countertop area, and a next step offering a render or dealer quote."
+}
